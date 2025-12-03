@@ -31,7 +31,7 @@ class ArithmeticOperations {
         int postIncrement = a++;
         System.out.println("Post Increment: " + postIncrement); 
 
-        // Pre increment : Increments b first and then fetches the value
+        // Pre increment : Increments b first and then fetches the value ...
         int preIncrement = ++b;
         System.out.println("Pre Increment: " + preIncrement);
     }
